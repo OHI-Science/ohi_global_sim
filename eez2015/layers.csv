@@ -335,62 +335,62 @@ Data sources:
 Data sources:
 
 - Molnar, J.L., Gamboa, R.L., Revenga C., Spalding, M. (2008). **Assessing the global threat of invasive species to marine biodiversity**. _Frontiers in Ecology and the Environment_ 6(485). [doi:10.1890/070064](http://dx.doi.org/10.1890/070064)
-","resilience score","resilience score","alien_species.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","alien_species.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","cites","Resilience from commitment to CITES","Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) signatories.
 
 Data sources:
 
 - [CITES List of Contracting Parties](http://www.cites.org/eng/disc/parties/chronolo.php)
 
-","resilience_score","resilience score","cites.csv","rgn_id",,,,"resilience_score",,TRUE,,,0,1,TRUE,,,,221,FALSE
+","resilience_score","resilience score","cites.csv","rgn_id",,,,"resilience_score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","fishing_v1","CBD survey: coastal fishing v1","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","fishing_v1.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.257163600288611,0.898860529902194,TRUE,,,,221,FALSE
+","resilience score","resilience score","fishing_v1.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","fishing_v1_eez","CBD survey: ocean fishing v1","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","fishing_v1_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.257163600288611,0.898860529902194,TRUE,,,,221,FALSE
+","resilience score","resilience score","fishing_v1_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","fishing_v2_eez","CBD survey: ocean fishing v2","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","fishing_v2_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.295372700216458,0.848077005170792,TRUE,,,,221,FALSE
+","resilience score","resilience score","fishing_v2_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","fishing_v3","CBD survey: coastal fishing v3","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","fishing_v3.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.270589142343944,0.902,TRUE,,,,221,FALSE
+","resilience score","resilience score","fishing_v3.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","fishing_v3_eez","CBD survey: ocean fishing v3","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","fishing_v3_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.270589142343944,0.902,TRUE,,,,221,FALSE
+","resilience score","resilience score","fishing_v3_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","habitat","CBD survey: habitat","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","habitat.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.138087289287079,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","habitat.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","habitat_combo","CBD survey: coastal habitat","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","habitat_combo.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.129767294214749,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","habitat_combo.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","habitat_combo_eez","CBD survey: ocean habitat","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","habitat_combo_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.129767294214749,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","habitat_combo_eez.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","li_gci","GCI: competitiveness in achieving sustained economic prosperity","Global Competitiveness Index (GCI) scores from the World Economic Forum.
 
 Data sources:
@@ -403,12 +403,12 @@ Data sources:
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","mariculture.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.054428393263486,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","mariculture.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","msi_gov"," MSI sustainability and regulations","Mariculture practice assessment criteria from the Mariculture Sustainability Index (MSI). 
 
 Data sources:
 
-- Trujillo P. (2008). **Using a mariculture sustainability index to rank countriesâ performances**. In: A comparative assessment of biodiversity, fisheries and aquaculture in 53 countriesâ Exclusive Economic Zones, Alder J, Pauly D, editors. _Fisheries Centre Research Report_, vol. 16(7) p. 28â56.","resilience score","resilience score","msi_gov.csv","rgn_id",,,,"resilience.score",,TRUE,,,0.1,0.8576923077,TRUE,,,,221,FALSE
+- Trujillo P. (2008). **Using a mariculture sustainability index to rank countriesâ performances**. In: A comparative assessment of biodiversity, fisheries and aquaculture in 53 countriesâ Exclusive Economic Zones, Alder J, Pauly D, editors. _Fisheries Centre Research Report_, vol. 16(7) p. 28â56.","resilience score","resilience score","msi_gov.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","species_diversity","Ocean ecological integrity","Marine species diversity as a proxy for ecological integrity: ocean (IUCN).
 
 Data sources:
@@ -426,13 +426,13 @@ Data sources:
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","tourism.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","tourism.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","water","CBD survey: water","Survey responses by country to the Convention on Biological Diversity (CBD) Third National Report (2005) 
 
 Data sources:
 
 - [Convention on Biological Diversity (CBD)](http://www.cbd.int/reports/search/default.shtml)
-","resilience score","resilience score","water.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,1,TRUE,,,,221,FALSE
+","resilience score","resilience score","water.csv","rgn_id",,,,"resilience.score",,TRUE,,,0,0,TRUE,,,,221,FALSE
 "resilience","wgi_all","Strength of governance indicated with the WGI","World Governance Indicators (WGI) six combined scores.
 
 Data sources:
